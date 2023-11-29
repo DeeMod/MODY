@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="device/xiaomi/raphael" name="SOVIET-ANDROID/device_xiaomi_raphael" remote="github" clone-depth="1"  revision="14.0-cr" />
+  <project path="hardware/qcom-caf/sm8150/display" name="SOVIET-ANDROID/platform_hardware_qcom_display" remote="github" clone-depth="1"  revision="14.0-8150" />
+  <project path="hardware/qcom-caf/sm8150/audio" name="SOVIET-ANDROID/platform_hardware_qcom_audio" remote="github" clone-depth="1"  revision="14.0-8150" />
+  <project path="hardware/qcom-caf/sm8150/media" name="SOVIET-ANDROID/platform_hardware_qcom_media" remote="github" clone-depth="1"  revision="14.0-8150" />
+  <project path="kernel/xiaomi/raphael" name="SOVIET-ANDROID/kernel_xiaomi_raphael" remote="github" clone-depth="1"  revision="14.0-DSP" />
+  <project path="vendor/xiaomi/raphael" name="SOVIET-ANDROID/vendor_xiaomi_raphael" remote="github" clone-depth="1"  revision="14.0" />
+  <!-- <project path="prebuilts/clang/host/linux-x86/clang-r498229b" name="ThankYouMario/android_prebuilts_clang-standalone" remote="gitlab" clone-depth="1"  revision="17" /> -->
+  <project path="prebuilts/clang/host/linux-x86/clang-trb" name="voltageos/clang" remote="gitlab" clone-depth="1"  revision="test" />
+  <!-- <project path="vendor/xiaomi/miuicamera" name="kondors1995/vendor_xiaomi_miuicamera" remote="gitlab" clone-depth="1"  revision="leica-5.0-raphael" /> -->
+</manifest>
