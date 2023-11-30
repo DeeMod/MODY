@@ -1,6 +1,11 @@
-MOD
+YAAP-MOD
+==============
+
+Getting Started
+---------------
+
 ```bash
-repo init -u https://github.com/DeeMod/MODY.git -b main --depth=1 --git-lfs
+repo init -u https://github.com/DeepMOD/MODY.git -b 13-YAAP --depth=1 --git-lfs
 ```
 Then to sync up:
 ```bash
